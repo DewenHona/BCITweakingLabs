@@ -1,0 +1,7 @@
+mne
+numexpr
+python-picard
+imbalanced-learn
+PyWavelets
+mne-features
+tgan
